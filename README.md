@@ -9,7 +9,7 @@
 #### Email: info@dodgyballoon.com
 
 ## Skills:
-#### ✪Kotlin &nbsp; ✪Java &nbsp; ✪Python &nbsp; ✪Swift &nbsp; ✪HTML &nbsp; ✪JavaScript
+#### ✪Kotlin &nbsp;&nbsp; ✪Java &nbsp;&nbsp; ✪Python &nbsp;&nbsp; ✪Swift &nbsp;&nbsp; ✪HTML &nbsp;&nbsp; ✪JavaScript
 
 ## Knowledge with:
 #### ✪Android Studio &nbsp; ✪Github &nbsp; ✪Jira &nbsp; ✪IntelliJ &nbsp; ✪Visual Studio &nbsp; ✪Xcode &nbsp; ✪Microsoft Teams
