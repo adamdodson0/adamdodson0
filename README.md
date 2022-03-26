@@ -9,10 +9,10 @@
 #### Email: info@dodgyballoon.com
 
 ## Skills:
-#### ⚪Kotlin, ⚪Java, ⚪Python, ⚪Swift, ⚪HTML, ⚪JavaScript
+#### ✪Kotlin ✪Java ✪Python ✪Swift ✪HTML ✪JavaScript
 
 ## Knowledge with:
-#### ⚪Android Studio, ⚪Github, ⚪Jira, ⚪IntelliJ, ⚪Visual Studio, ⚪Xcode, ⚪Microsoft Teams
+#### ✪Android Studio ✪Github ✪Jira ✪IntelliJ ✪Visual Studio ✪Xcode ✪Microsoft Teams
 
 ## Certifications: 
 #### Mobile Development, Unix System Administrator, and Cyber Security
