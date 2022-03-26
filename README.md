@@ -12,10 +12,10 @@
 #### ✪Kotlin &nbsp;&nbsp; ✪Java &nbsp;&nbsp; ✪Python &nbsp;&nbsp; ✪Swift &nbsp;&nbsp; ✪HTML &nbsp;&nbsp; ✪JavaScript
 
 ## Knowledge with:
-#### ✪Android Studio &nbsp; ✪Github &nbsp; ✪Jira &nbsp; ✪IntelliJ &nbsp; ✪Visual Studio &nbsp; ✪Xcode &nbsp; ✪Microsoft Teams
+#### ✪Android Studio &nbsp;&nbsp; ✪Github &nbsp;&nbsp; ✪Jira &nbsp;&nbsp; ✪IntelliJ &nbsp;&nbsp; ✪Visual Studio &nbsp;&nbsp; ✪Xcode &nbsp;&nbsp; ✪Microsoft Teams
 
 ## Certifications: 
-#### ✪Mobile Development &nbsp; ✪Unix System Administrator &nbsp; ✪Cyber Security
+#### ✪Mobile Development &nbsp;&nbsp; ✪Unix System Administrator &nbsp;&nbsp; ✪Cyber Security
 
 [Website]: https://dodgyballoon.com
 [LinkedIn]: https://www.linkedin.com/in/adam-dodson001/
