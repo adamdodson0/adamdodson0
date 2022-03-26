@@ -1,6 +1,6 @@
-## Hello! I am a Soon to be UW-Parkside graduate (Graduating in May) majoring in Computer Science. I am seeking a job in my passion, android development.
+# Hello! I am a Soon to be UW-Parkside graduate (Graduating in May) majoring in Computer Science. I am seeking a job in my passion, android development.
 
-### Important Links!
+## Important Links!
 
 [LinkedIn]   
 
@@ -8,13 +8,13 @@
 
 #### Email: info@dodgyballoon.com
 
-### Skills:
-#### Kotlin, Java, Python, Swift, HTML, JavaScript
+## Skills:
+#### ⚪Kotlin, ⚪Java, ⚪Python, ⚪Swift, ⚪HTML, ⚪JavaScript
 
-### Knowledge with:
-#### Android Studio, Github, Jira, IntelliJ, Visual Studio, Xcode, Microsoft Teams
+## Knowledge with:
+#### ⚪Android Studio, ⚪Github, ⚪Jira, ⚪IntelliJ, ⚪Visual Studio, ⚪Xcode, ⚪Microsoft Teams
 
-### Certifications: 
+## Certifications: 
 #### Mobile Development, Unix System Administrator, and Cyber Security
 
 [Website]: https://dodgyballoon.com
