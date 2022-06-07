@@ -1,4 +1,4 @@
-# Hello! I am a Soon to be UW-Parkside graduate (Graduating in May) majoring in Computer Science. I am seeking a job in my passion, android development.
+# Hello! I am a Recent UW-Parkside graduate majoring in Computer Science. I am seeking a job in my passion, android development.
 
 ## Important Links!
 
